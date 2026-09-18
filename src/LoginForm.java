@@ -112,7 +112,7 @@ public class LoginForm extends javax.swing.JFrame {
         loginButton.setCornerRadius(6);
         loginButton.setGradientEnabled(true);
         loginButton.setGradientEnd(new java.awt.Color(255, 255, 255));
-        loginButton.setGradientStart(new java.awt.Color(232, 184, 127));
+        loginButton.setGradientStart(new java.awt.Color(255, 0, 0));
         loginButton.setHoverBackground(new java.awt.Color(74, 46, 36));
         loginButton.setHoverForeground(java.awt.Color.white);
         loginButton.addActionListener(this::loginButtonActionPerformed);
